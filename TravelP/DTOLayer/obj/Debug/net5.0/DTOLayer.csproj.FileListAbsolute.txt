@@ -1,0 +1,36 @@
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfo.cs
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.deps.json
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.dll
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.pdb
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.dll
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\refint\DTOLayer.dll
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.pdb
+C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\ref\DTOLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.deps.json
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.pdb
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfo.cs
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\refint\DTOLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.pdb
+C:\Users\AgöBilişim\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\ref\DTOLayer.dll
+C:\Users\Tom\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.deps.json
+C:\Users\Tom\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.dll
+C:\Users\Tom\Desktop\TravelP\DTOLayer\bin\Debug\net5.0\DTOLayer.pdb
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfo.cs
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.dll
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\refint\DTOLayer.dll
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\DTOLayer.pdb
+C:\Users\Tom\Desktop\TravelP\DTOLayer\obj\Debug\net5.0\ref\DTOLayer.dll

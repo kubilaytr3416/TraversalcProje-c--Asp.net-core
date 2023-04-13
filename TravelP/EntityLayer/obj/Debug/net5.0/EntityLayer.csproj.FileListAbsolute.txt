@@ -28,3 +28,33 @@ C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\refint\En
 C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
 C:\Users\KUBİLAY TAŞGIN\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\AgöBilişim\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Tom\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Tom\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Tom\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Tom\Desktop\TravelP\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Tom\Desktop\TravelP\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

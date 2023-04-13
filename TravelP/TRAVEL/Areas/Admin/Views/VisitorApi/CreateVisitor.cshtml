@@ -1,0 +1,27 @@
+﻿@model Areas_Admin_Views_VisitorApi_CreateVisitor
+@{
+    ViewData["Title"] = "CreateVisitor";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>APİ İLE ZİYARET EKLEME</h1>
+<br />
+<form method="post">
+    <label>Ziyaretçi Adı</label>
+    <input type="text"class="form-control"name="Name"/>
+    <br />
+    <label>Ziyaretçi SoyAdı</label>
+    <input type="text" class="form-control" name="Surname" />
+    <br />
+    <label>Ziyaretçi Mail Adresi</label>
+    <input type="text"class="form-control"name="Mail"/>
+    <br />
+    <label>Ziyaretçi Şehri</label>
+    <input type="text" class="form-control" name="City" />
+    <br />
+    <label>Ziyaretçi Ülkesi</label>
+    <input type="text" class="form-control" name="Country" />
+    <br />
+    
+    <button class="btn btn-outline-primary">Ziyaretçiyi Kaydet</button>
+</form>

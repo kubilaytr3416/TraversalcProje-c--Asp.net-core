@@ -10,6 +10,7 @@ namespace TRAVEL.Areas.Admin.Controllers
     public class DestinationController : Controller
     {
         private readonly IDestinationService _destinationService;
+
         public DestinationController(IDestinationService destinationService)
         {
             _destinationService = destinationService;

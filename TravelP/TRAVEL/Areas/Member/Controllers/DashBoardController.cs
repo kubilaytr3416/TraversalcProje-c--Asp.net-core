@@ -19,8 +19,12 @@ namespace TRAVEL.Areas.Member.Controllers
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
             ViewBag.User  = values.Name  +""+  values.Surname;
-            @ViewBag.UserImage = values.ImageUrl;
+            ViewBag.UserImage = values.ImageUrl;
             return View();
+        }
+        public async Task<IActionResult>MemberDashboard()
+        {
+            return View();  
         }
     }
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\KUBİLAY TAŞGIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\AgöBilişim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KUBİLAY TAŞGIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AgöBilişim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\DTOLayer.csproj": {
+                "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\DTOLayer.csproj"
+              },
+              "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -84,25 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\KUBİLAY TAŞGIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\AgöBilişim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KUBİLAY TAŞGIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AgöBilişim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,8 +111,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -177,25 +172,76 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\DTOLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
-        "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\KUBİLAY TAŞGIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\obj\\",
+        "projectUniqueName": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\DTOLayer.csproj",
+        "projectName": "DTOLayer",
+        "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\DTOLayer.csproj",
+        "packagesPath": "C:\\Users\\AgöBilişim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\DTOLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KUBİLAY TAŞGIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AgöBilişim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\AgöBilişim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AgöBilişim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -270,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

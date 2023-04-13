@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TraversalCoreProje.Models
+namespace TRAVEL.Models
 {
     public class MailRequest
     {

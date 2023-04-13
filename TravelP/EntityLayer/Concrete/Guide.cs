@@ -18,5 +18,7 @@ namespace EntityLayer.Concrete
 		public String InstragramUrl { get; set; }
 		public bool Status { get; set; }
 
+		public List<Destination> Destinations { get; set; }
+
 	}
 }

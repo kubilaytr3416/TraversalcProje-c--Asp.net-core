@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\KUBİLAY TAŞGIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KUBİLAY TAŞGIN\\Desktop\\TravelP\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\AgöBilişim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgöBilişim\\Desktop\\TravelP\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KUBİLAY TAŞGIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AgöBilişim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

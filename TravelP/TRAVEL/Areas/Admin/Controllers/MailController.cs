@@ -6,9 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TRAVEL.Models;
-using TraversalCoreProje.Models;
 
-namespace TraversalCoreProje.Areas.Admin.Controllers
+namespace TRAVEL.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class MailController : Controller

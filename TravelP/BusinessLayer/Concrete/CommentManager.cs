@@ -44,12 +44,17 @@ namespace BusinessLayer.Concrete
         }
         public List<Comment>TGetDestinationById(int id)
         {
-            return _commentDal.GetListByFilter(x => x.DestinationID==id);
+            return _commentDal.GetListByFilter(x=>x.DestinationID==id);
         }
 
         public List<Comment> GetListCommentWithDestination()
         {
             return _commentDal.GetListCommentWithDestination();
+        }
+
+        public List<Comment> GetListCommentWithDestinationAndUser(int id)
+        {
+            return _commentDal.GetListCommentWithDestinationAndUser(id);
         }
     }
 }

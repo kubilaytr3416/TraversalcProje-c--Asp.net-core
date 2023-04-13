@@ -1,7 +1,10 @@
 ﻿using System;
 using System.IO;
+using System.Net;
 using System.Threading.Tasks;
 using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using TRAVEL.Areas.Member.Models;
@@ -54,6 +57,10 @@ namespace TRAVEL.Areas.Member.Controllers
                 return RedirectToAction("SignIn", "Login"); 
             }
             return View();
+
+
         }
+
+        
     }
 }

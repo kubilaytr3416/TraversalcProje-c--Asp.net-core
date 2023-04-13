@@ -9,5 +9,9 @@ namespace BusinessLayer.Abstract
 {
 	public interface IDestinationService:IGenericService<Destination>
 	{
-	}
+		public Destination GetDestinationWithGuide(int id);
+		public List<Destination> TGetLast4Destination();
+
+
+    }
 }
